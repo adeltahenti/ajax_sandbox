@@ -9,11 +9,11 @@ body {
 
 .container #button {
   font-size: 1.5rem !important;
-  background: #ff7b00 !important;
+  background: #ff39f5 !important;
 }
 
 .container #button:hover {
-  background: #d86800 !important;
+  background: #f300e7 !important;
   color: #fff;
   -webkit-box-shadow: 3px 3px 15px #c7c7c7;
           box-shadow: 3px 3px 15px #c7c7c7;

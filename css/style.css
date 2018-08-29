@@ -26,11 +26,13 @@ body {
   text-align: center;
   padding: 0px 16px;
   text-decoration: none;
+  font-size: 1.3rem !important;
   text-transform: uppercase;
 }
 
 #header ul li a:hover {
-  border-bottom: 2px solid #000;
+  color: #c000da;
+  font-weight: bold;
 }
 
 .container {

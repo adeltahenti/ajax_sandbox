@@ -16,7 +16,7 @@
 - 403: "Forbidden"
 - 404: "Not Found"
 
-## Sequences to Ajax
+## Sequences to Ajax (In general)
 
 1. Instantiate XMLHttpRequest
 

@@ -83,4 +83,26 @@ body {
   -webkit-box-shadow: 3px 3px 15px #c7c7c7;
           box-shadow: 3px 3px 15px #c7c7c7;
 }
+
+.container #button3 {
+  font-size: 1.5rem !important;
+  background: #ff4f38 !important;
+}
+
+.container #button3:hover {
+  background: #fa2d12 !important;
+  color: #fff;
+  -webkit-box-shadow: 3px 3px 15px #c7c7c7;
+          box-shadow: 3px 3px 15px #c7c7c7;
+}
+
+.container input[type=number] {
+  font-size: 1.5rem !important;
+}
+
+.container .error {
+  background: red;
+  color: white;
+  border-radius: 5px;
+}
 /*# sourceMappingURL=style.css.map */

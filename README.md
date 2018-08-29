@@ -18,19 +18,19 @@
 
 ## Sequences to Ajax (In general)
 
-1. Instantiate XMLHttpRequest
+1 - Instantiate XMLHttpRequest
 
 ```Javascript
   const xhr = new XMLHttpRequest();
 ```
 
-2. Server connection
+2 - Server connection
 
 ```Javascript
   xhr.open('GET', 'urlAddress', true);
 ```
 
-3. Request received, Processing and Finished request
+3 - Request received, Processing and Finished request
 
 ```Javascript
   xhr.onload = function() {
@@ -38,7 +38,7 @@
   }
 ```
 
-4. Receive response
+4 - Receive response
 
 ```Javascript
   xhr.send();

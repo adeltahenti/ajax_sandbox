@@ -1,1 +1,21 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  margin-top: 60px;
+}
+
+.container #button {
+  font-size: 1.5rem !important;
+  background: #ff7b00 !important;
+}
+
+.container #button:hover {
+  background: #d86800 !important;
+  color: #fff;
+  -webkit-box-shadow: 3px 3px 15px #c7c7c7;
+          box-shadow: 3px 3px 15px #c7c7c7;
+}
+/*# sourceMappingURL=style.css.map */
